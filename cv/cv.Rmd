@@ -2,7 +2,7 @@
 name: Alexis Meskowski
 position: 
 address: 
-phone: "574-849-4341"
+phone:
 www: 
 email: AlexisMeskowski@gmail.com
 linkedin: AlexisMeskowski
