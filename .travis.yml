@@ -29,7 +29,6 @@ after_script: R -q -e 'tic::after_script()'
 
 # Header
 language: r
-r: 3.6.2
 sudo: false
 dist: xenial
 cache: packages

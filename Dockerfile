@@ -1,5 +1,7 @@
 ## Start with the shiny docker image
-FROM rocker/tidyverse:3.6.2
+FROM rocker/tidyverse:latest
+
+MAINTAINER "Sam Abbott" contact@samabbott.co.uk
 
 ADD . /home/rstudio/cv
 
