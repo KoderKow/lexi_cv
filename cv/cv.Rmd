@@ -6,7 +6,7 @@ phone: "574-849-4341"
 www: 
 email: AlexisMeskowski@gmail.com
 linkedin: AlexisMeskowski
-aboutme: "..."
+aboutme: 
 date: "`r format(Sys.time(), '%B %Y')`"
 headcolor: "000000"
 output: vitae::awesomecv
